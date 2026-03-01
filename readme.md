@@ -1,4 +1,4 @@
-## Yoooo! Welcome to this repo cuh!
+## Hello, Welcome to Git!
 
-- Yo, welcome to the hood
+- This is coming from `dev-adrian`
 - I am adding this from `feature-branch-1`
